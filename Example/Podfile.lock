@@ -1,0 +1,16 @@
+PODS:
+  - RYFoundation (0.1.0)
+
+DEPENDENCIES:
+  - RYFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  RYFoundation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RYFoundation: ae3e294e8aec7afad6e9db6c6254f8cac3f6e5c2
+
+PODFILE CHECKSUM: 84fef5aa30d28a6a39b95dfe95b71c13b368ca11
+
+COCOAPODS: 1.4.0

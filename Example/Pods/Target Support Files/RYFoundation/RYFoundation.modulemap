@@ -1,0 +1,6 @@
+framework module RYFoundation {
+  umbrella header "RYFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

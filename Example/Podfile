@@ -1,6 +1,8 @@
 use_frameworks!
 target 'RYFoundation_Tests' do
-  pod 'RYFoundation', :path => '../'
+  pod 'RYFoundation', :path => '../AFNetworking'
+  pod 'RYFoundation', :path => '../Masonry'
+  pod 'RYFoundation', :path => '../SDWebImage'
   
   
 end
