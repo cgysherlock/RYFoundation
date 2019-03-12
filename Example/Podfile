@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RYFoundation_Tests' do
+  pod 'RYFoundation', :path => '../'
+  
+  
+end
